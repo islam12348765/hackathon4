@@ -1,0 +1,212 @@
+{
+  "products": [
+    {
+      "productCategory": "rolls",
+      "name": "Бруклин",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/bruklin-280x280.jpg",
+      "compound": "Лосось, огурец, сливочный сыр, унаги соус",
+      "weight": "250 гр",
+      "price": "310 сом",
+      "id": 4
+    },
+    {
+      "productCategory": "rolls",
+      "name": "Драгон",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/dragon-280x280.jpg",
+      "compound": "Лосось, угорь, сливочный сыр, огурец, кунжут",
+      "weight": "230 гр",
+      "price": "400 сом",
+      "id": 5
+    },
+    {
+      "productCategory": "rolls",
+      "name": "Драгон-премиум",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/dragon-premium-280x280.jpg",
+      "compound": "Лосось, угорь, сливочный сыр, огурец, унаги соус",
+      "weight": "270 гр",
+      "price": "520 сом",
+      "id": 6,
+      "feedbacks": [
+        {
+          "title": "good product",
+          "user": "islam"
+        }
+      ]
+    },
+    {
+      "productCategory": "rolls",
+      "name": "Калифорния",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/kalifornija-280x280.jpg",
+      "compound": "Снежный краб, масаго, огурец, сливочный сыр",
+      "weight": "270 гр",
+      "price": "320 сом",
+      "id": 7
+    },
+    {
+      "productCategory": "rolls",
+      "name": "Калифорния-лосось",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/kalifornija-losos-280x280.jpg",
+      "compound": "Лосось, авокадо, масаго, сливочный сыр",
+      "weight": "230 гр",
+      "price": "390 сом",
+      "id": 8
+    },
+    {
+      "productCategory": "rolls",
+      "name": "Канада-премиум",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/kanada-premium-2-280x280.jpg",
+      "compound": "Угорь, огурец, сливочный сыр, унаги соус, кунжут",
+      "weight": "250 гр",
+      "price": "560 сом",
+      "id": 10
+    },
+    {
+      "name": "калифорния",
+      "compound": "Снежный краб, масаго, огурец, сливочный сыр",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/kalifornija-280x280.jpg",
+      "price": "320",
+      "feedbacks": "",
+      "color": "270 гр",
+      "id": 11
+    },
+    {
+      "name": "калифорния",
+      "compound": "Снежный краб, масаго, огурец, сливочный сыр",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/kalifornija-280x280.jpg",
+      "price": "320",
+      "feedbacks": "",
+      "weight": "250 гр",
+      "id": 12
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Горячая креветка",
+      "compound": "Тигровые креветки, сыр, розовый соус, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/gorjachaja-krevetka-280x280.jpg",
+      "price": "280",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 13
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Горячая курица",
+      "compound": "Курица, сыр, розовый соус, унаги соус, кунжут",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/gorjachaja-krevetka-280x280.jpg",
+      "price": "220",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 14
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Горячая краб",
+      "compound": "Снежный краб, сыр, розовый соус, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/gorjachaja-krevetka-280x280.jpg",
+      "price": "250",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 15
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Горячая лосось",
+      "compound": "Лосось, сыр, розовый соус, унаги соус, кунжут",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/gorjachaja-krevetka-280x280.jpg",
+      "price": "300",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 16
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Кани темпура",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/kani-tempura-280x280.jpg",
+      "price": "290",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 17
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Сяке темпура",
+      "compound": "Лосось, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/sjake-tempura-280x280.jpg",
+      "price": "350",
+      "feedbacks": "",
+      "weight": "220 гр",
+      "id": 18
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Унаги темпура",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/sjake-tempura-280x280.jpg",
+      "price": "290",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 19
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Фудзияма",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/zapechennyj-feniks-280x280.jpg",
+      "price": "260",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 20
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Хот краб",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/hot-krab-280x280.jpg",
+      "price": "360",
+      "feedbacks": "",
+      "weight": "240 гр",
+      "id": 21
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Хот креветка",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/hot-krevetka-280x280.jpg",
+      "price": "400",
+      "feedbacks": "",
+      "weight": "220 гр",
+      "id": 22
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Хот лосось",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/hot-losos-280x280.jpg",
+      "price": "380",
+      "feedbacks": "",
+      "weight": "320 гр",
+      "id": 23
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Чикин темпура",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/chikin-tempura-280x280.jpg",
+      "price": "260",
+      "feedbacks": "",
+      "weight": "230 гр",
+      "id": 24
+    },
+    {
+      "productCategory": "hotRolls",
+      "name": "Эби темпура",
+      "compound": "Снежный краб, авокадо, сыр, унаги соус",
+      "image": "https://wasabi.kg/wp-content/uploads/2021/07/jebi-tempura-280x280.jpg",
+      "price": "320",
+      "feedbacks": "",
+      "weight": "320 гр",
+      "id": 25
+    }
+  ]
+}

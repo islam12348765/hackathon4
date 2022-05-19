@@ -1,0 +1,15 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap"); */
+
+.cardd a {
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+}
+
+.cardd div {
+  background-color: #f5f5f7;
+}
+
+.cardd image {
+  background-color: #f5f5f7;
+}
